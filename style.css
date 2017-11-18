@@ -1,0 +1,13 @@
+body {
+  background-color: #f5f658;
+}
+
+h1 {
+  color: blue;
+}
+
+form {
+  background-color: lightgreen;
+  margin: 25px;
+  padding: 25px;
+}
